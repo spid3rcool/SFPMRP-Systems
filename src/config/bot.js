@@ -21,7 +21,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
+    activities: [1
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Specialized bot for the SFPMRP server",
@@ -439,7 +439,7 @@ export const botConfig = {
   // Set any feature to `false` to disable it globally.
   features: {
     // Core systems.
-    economy: true,
+    economy: false,
     leveling: true,
     moderation: true,
     logging: true,
