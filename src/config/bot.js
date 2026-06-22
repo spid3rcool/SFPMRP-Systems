@@ -21,12 +21,12 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [1
+    activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Specialized bot for the SFPMRP server",
         // Activity type number (0 = Playing).
-        type: 0,
+        type: 1,
       },
     ],
   },
